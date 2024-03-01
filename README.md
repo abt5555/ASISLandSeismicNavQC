@@ -1,2 +1,9 @@
-# ASISLandSeismicNavQC
-ASIS Land Seismic Nav QC ASIS Land Seismic Nav QC is a unique software designed to offer efficient QC tools for the positioning data of 2D/3D Land Seismic Acquisition projects. 
+ASIS-Land-Seismic-Nav-QC-
+ASIS Land Seismic Nav QC is a unique software designed to offer efficient QC tools for the positioning data of 2D/3D Land Seismic Acquisition projects. Thanks to the ASIS Land Seismic Nav QC software, seismic surveyors and clients can conduct their daily and final QC easily based on map, table and interactive graph. With user-friendly interfaces, even those limited experience in seismic industry can easily navigate and utilize its features. The software`s current capacities include:
+
+Precise Horizontal/Vertical Datum Transformation
+2D Seismic Shot/Receiver Preplan Coordinate Generation
+Stakeout Coordinate/Offset QC
+Vibro/Dynamite Shot Coordinate/Offset QC
+Final Seismic Files QC
+ASIS Land Seismic Nav QC v4.1 is freely available to use. It is designed mainly for Land Seismic Acquisition projects in Turkiye. The software currently supports the datum and projection zones used in Turkiye. However, the software QC capabilities are applicable worldwide, with the exception of coordinate shifts in the map. As part of future development, other widely used datums and projections will be supported. ASIS Land Seismic Nav QC software is written and designed in C# programing language by benefiting from well-known GIS open source libraries such as GDAL, Dotspatial and ProjNET. The programmer of ASIS Land Seismic Nav QC software, Ahmet Bayram TOLUC, is a Senior Geomatics Engineer who has been working for Turkish Petroleum Corporation since 2016. During this time, he has been worked as an Offshore Seismic Navigator and a Land Seismic Surveyor & Client on many offshore and land seismic acquisition projects. He completed his MSc at The Ohio State University in 2016, focusing on Multi-GNSS PPP. For any concerns or problems, please contact via email: abtoluc@gmail.com.
